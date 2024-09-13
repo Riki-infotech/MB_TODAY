@@ -1,6 +1,6 @@
 # MB_TODAY
 dev log
-this repo is only for log purpose
+
 
 # January
 
