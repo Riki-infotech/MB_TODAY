@@ -1,3 +1,6 @@
 a{
-  display:none
+  display: none;
+}
+body{
+  backgroundcolor: red;
 }
