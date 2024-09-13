@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>我的项目</title>
-  <link rel="stylesheet" href="style.css">
+  <title>使用 marked.js</title>
 </head>
 <body>
-  <h1>项目介绍</h1>
   <div id="readme"></div>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.2.12/marked.min.js"></script>
   <script>
-    // 使用 JavaScript 动态加载 README 内容
+    // 确保在 marked.js 加载完成后再执行
     fetch('README.md')
       .then(response => response.text())
       .then(data => {
-        document.getElementById('readme').innerHTML = marked(data); // 使用 marked 库渲染 Markdown
+        document.getElementById('readme').innerHTML = marked(data);
       });
   </script>
 </body>
