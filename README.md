@@ -40,10 +40,10 @@ this repo is only for log purpose
 ### Developed and tested house ads
 
 ## Known issues:
-# PaymentLink encounters errors due to website CSP
-# PaymentLink lacks inventory management features
-# Customer service query feature consumes a lot of bandwidth and takes more than 3 seconds, needs optimization
-# Product pages need optimization
+### PaymentLink encounters errors due to website CSP
+### PaymentLink lacks inventory management features
+### Customer service query feature consumes a lot of bandwidth and takes more than 3 seconds, needs optimization
+### Product pages need optimization
 
 
 # May
