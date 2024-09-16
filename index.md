@@ -127,13 +127,3 @@ mb today dev started from Jan
 ## Known issues:
 ### Local AI CUDA computation is causing memory overflow
 ### Discourse AI requires server GPU CUDA computation, exceeding the original budget
-
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
