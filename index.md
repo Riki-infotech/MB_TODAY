@@ -1,6 +1,4 @@
-Hosted on GitHub Pages---
-layout: default
----
+
 
 
 mb today dev started from Jan
