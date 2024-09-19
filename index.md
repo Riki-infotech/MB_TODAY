@@ -6,6 +6,7 @@ mb today dev started from Jan
 
 | date       | commit |         
 |:-------------|:------------------|
+| Sep 19       | auto translate jobpost 1.0 finished |
 | Sep 16       | test deepll and aws cloud translation api | 
 | Sep 13       | Test Gemini ai api for translation | 
 | Sep 12       | rebuild cnbbs footer | 
